@@ -1,0 +1,1 @@
+- Heys. Gangesh here, currently in SUTD. Just tryna mess around with python in hopes of getting better 
