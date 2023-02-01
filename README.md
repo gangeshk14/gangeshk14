@@ -1,1 +1,1 @@
-- Heys. Gangesh here, currently in SUTD. Just tryna mess around with python in hopes of getting better 
+- Heys. Gangesh here, currently in SUTD pursuin Computer Science. Just wanna code stuff thats useful
