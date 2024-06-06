@@ -1,1 +1,1 @@
-- Heys. Gangesh here, currently in SUTD pursuing Computer Science. Just wanna code stuff thats useful
+- Heys. Gangesh here, currently in SUTD pursuing Computer Science.
